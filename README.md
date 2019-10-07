@@ -1,1 +1,1 @@
-# user-center-web
+# 部署说明：需要安装nodejs
